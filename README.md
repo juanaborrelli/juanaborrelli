@@ -1,25 +1,24 @@
 <!--### Hi there 👋-->
-<h2> Hi, I'm Juana Borrelli! 👋 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Studying lic. en informatica at <a href="http://www.unlp.edu.ar">Universidad Nacional de La Plata</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+<h2> Hi, I'm Juana Borrelli! 👋 </h2>
+<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
+<p><em>Studying lic. en informatica at <a href="http://www.unlp.edu.ar">Universidad Nacional de La Plata</a> 🌱 </br>
 </em></p>
 
-[![GitHub Juana](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![GitHub Juana](https://img.shields.io/github/followers/juanaborrelli?label=follow&style=social)](https://github.com/juanaborrelli)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### A little more about me...  
 
 ```javascript
 const juana = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS, Python, Java],
-  tools: [],
+  tools: [Tailwind, Bootstrap, Blazor],
 
- challenge: ""
+ challenge: "Nowadays i'm working on a university project with python and flask"
 }
 ```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
 
